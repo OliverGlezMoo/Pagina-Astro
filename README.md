@@ -5,10 +5,12 @@ Conocer astro he implementar en el sitio del trabajo anterior:
 
 ### Link's Trabajo Anterior
 https://github.com/OliverGlezMoo/Espacio
+
 https://oliverglezmoo.github.io/Espacio/
 
 ### Link's Trabajo Actual
 https://github.com/OliverGlezMoo/Pagina-Astro
+
 https://pagina-astro-delta.vercel.app/
 
 #### Evidencia
@@ -18,4 +20,5 @@ https://pagina-astro-delta.vercel.app/
 
 #### Link del curso de Astro
 https://www.youtube.com/watch?v=RB5tR_nqUEw
+
 https://github.com/OliverGlezMoo/Curso2
